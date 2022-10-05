@@ -1,0 +1,73 @@
+{
+  plot:
+    "Gwen's family is rich, but her parents ignore her and most of the servants push her around, so she is lonely and unhappy. Her father is concerned only with making money, and her mother ...",
+  genres: ["Comedy", "Drama", "Family"],
+  runtime: {
+    $numberInt: "65"
+  },
+  cast: [
+    "Mary Pickford",
+    "Madlaine Traverse",
+    "Charles Wellesley",
+    "Gladys Fairbanks"
+  ],
+  title: "The Poor Little Rich Girl",
+  fullplot:
+    "Gwen's family is rich, but her parents ignore her and most of the servants push her around, so she is lonely and unhappy. Her father is concerned only with making money, and her mother cares only about her social position. But one day a servant's irresponsibility creates a crisis that causes everyone to rethink what is important to them.",
+  languages: ["English"],
+  released: {
+    $date: {
+      $numberLong: "-1667088000000"
+    }
+  },
+  directors: ["Maurice Tourneur"],
+  writers: ["Eleanor Gates (play)", "Frances Marion (scenario)"],
+  awards: {
+    wins: {
+      $numberInt: "1"
+    },
+    nominations: {
+      $numberInt: "0"
+    },
+    text: "1 win."
+  },
+  lastupdated: "2015-07-27 00:11:31.387000000",
+  year: {
+    $numberInt: "1917"
+  },
+  imdb: {
+    rating: {
+      $numberDouble: "6.9"
+    },
+    votes: {
+      $numberInt: "884"
+    },
+    id: {
+      $numberInt: "8443"
+    }
+  },
+  countries: ["USA"],
+  type: "movie",
+  tomatoes: {
+    viewer: {
+      rating: {
+        $numberDouble: "3.9"
+      },
+      numReviews: {
+        $numberInt: "137"
+      },
+      meter: {
+        $numberInt: "77"
+      }
+    },
+    production: "Artcraft",
+    lastUpdated: {
+      $date: {
+        $numberLong: "1440180025000"
+      }
+    }
+  },
+  num_mflix_comments: {
+    $numberInt: "0"
+  }
+}
